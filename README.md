@@ -1,3 +1,4 @@
+<img width="1628" height="1072" alt="Screenshot 2025-05-07 185447" src="https://github.com/user-attachments/assets/9fbcd917-6006-4be3-a5d8-df541fbdcc0b" />
 Elderly Care Monitoring Dashboard – Power BI
 This project leverages the “AI for Elderly Care and Support” dataset to create an interactive Power BI dashboard focused on enhancing elderly well-being through data-driven insights.
 
